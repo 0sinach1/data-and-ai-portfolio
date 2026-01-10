@@ -1,10 +1,10 @@
-## Problem Statement
+## Problem Statement🤔
 
 *Businesses often struggle to understand how sales and inventory behave over time, leading to poor stock planning, missed opportunities, and revenue loss. This project analyzes retail sales data to identify demand patterns, seasonal trends, and sales inconsistencies over monthly periods. The goal is to understand how sales evolve over time and provide data-driven insights that support better inventory planning and decision-making.*       
 
-## Data Structure
+## Data Structure💻
 
-The dataset contains transactional retail sales data with the following key attributes:
+**The dataset contains transactional retail sales data with the following key attributes:**
 
 * Transaction ID
 
@@ -23,7 +23,7 @@ The dataset contains transactional retail sales data with the following key attr
 
 
 
-## Key Questions
+## Key Questions💭
 
 * Which product categories generate the _highest revenue and sales volume_?
 
@@ -47,7 +47,7 @@ The dataset contains transactional retail sales data with the following key attr
 
 
 
-## Business Recommendations
+## Business Recommendations📲
 
 * Prioritize consistent restocking for high-revenue and stable-demand product categories.
 
